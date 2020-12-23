@@ -2,14 +2,15 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
-    "start": "nodemon --inspect main.js",
+    "start": "nodemon --inspect src/main.js",
+    "css":"node-sass --watch src/resources/scss/ --output src/wwwroot/css/app.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hqtruong27/nodejs_blog-.git"
+    "url": "git+https://github.com/Hqtruong27/nodejs_blog.git"
   },
   "keywords": [
     "blog",
@@ -28,9 +29,12 @@
   },
   "homepage": "https://github.com/Hqtruong27/nodejs_blog#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "node-sass": "^5.0.0"
   },
   "devDependencies": {
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.6"
   }
 }
