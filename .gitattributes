@@ -1,6 +1,6 @@
-  
-*.css3 linguist-detectable=false
-*.css linguist-detectable=false
+*.css3 linguist-detectable=true
+*.css linguist-detectable=true
 *.scss linguist-detectable=true
-*.less linguist-detectable=false
+*.sass linguist-detectable=true
+*.less linguist-detectable=true
 *.html linguist-detectable=false
