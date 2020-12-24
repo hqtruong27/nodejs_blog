@@ -1,10 +1,9 @@
-# <h1 align="center">Nodejs_blog</h1>
-
-# <h2>Trying code prject example with nodejs v14.15</h3>
-<span>
+<h1 align="center">Nodejs_blog</h1>
+<p align="center">
   <img alt="hqtruong27/nodejs language count" src="https://img.shields.io/github/languages/count/hqtruong27/nodejs_blog?label=Languages&style=flat-square">
   <img alt="hqtruong27/nodejs" src="https://img.shields.io/github/languages/top/hqtruong27/nodejs_blog?color=d2be11&label=JavaScript&logoColor=javascript&style=flat-square">
-</span><br>
+</p><br>
+ <h2>Trying code prject example with nodejs v14.15</h3>
 
 > * *Library Nodejs:*
 1. express
