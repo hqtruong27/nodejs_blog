@@ -1,7 +1,8 @@
 <h1 align="center">Nodejs_blog</h1>
 <p align="center">
-  <img alt="hqtruong27/nodejs" src="https://img.shields.io/github/languages/count/hqtruong27/nodejs_blog?label=Languages&style=flat-square">
-  <img alt="hqtruong27/nodejs" src="https://img.shields.io/github/languages/top/hqtruong27/nodejs_blog?color=d2be11&label=JavaScript&logoColor=javascript&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/hqtruong27/nodejs_blog?label=Size&logo=node.js&style=flat-square">
+  <img alt="hqtruong27/nodejs" src="https://img.shields.io/github/languages/count/hqtruong27/nodejs_blog?label=Languages&logo=node.js&style=flat-square">
+  <img alt="hqtruong27/nodejs" src="https://img.shields.io/github/languages/top/hqtruong27/nodejs_blog?label=JavasScript&logo=javascript&style=flat-square">
   <h1 align="center"></h1>
 </p>
 <h2>Trying code prject example with nodejs v14.15</h3>
