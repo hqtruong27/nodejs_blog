@@ -2,5 +2,5 @@
 *.css linguist-detectable=false
 *.scss linguist-detectable=false
 *.sass linguist-detectable=false
-*.less linguist-detectable=true
+*.less linguist-detectable=false
 *.html linguist-detectable=false
