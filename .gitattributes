@@ -1,4 +1,4 @@
-*.css3 linguist-detectable=true
+*.css3 linguist-detectable=false
 *.css linguist-detectable=true
 *.scss linguist-detectable=false
 *.sass linguist-detectable=false
